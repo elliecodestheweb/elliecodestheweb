@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Ellie (she/her)!
+I'm a front end web developer from San Diego. I'm currently a student of San Diego Workforce Partnership & UCSD Extension's Income Share Agreement program pilot cohort. I'm transitioning my career into tech, and would love to connect with others to both learn from and be a resource to the community.
+
+## Random Facts:
+- ✨ I love all things Disney! 
+- ✨ I'm currently learning Content Management Systems & WordPress.
+- ✨ I own more nail polish than I could possibly use, but I LOVE IT.
+- ✨ Fun fact: I'm a synesthete! I have chomesthesia and experience sounds as color.
 
 <!--
 **elliecodestheweb/elliecodestheweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
