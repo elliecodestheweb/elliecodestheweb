@@ -3,7 +3,7 @@ I'm a San Diego based front end web developer and nap enthusiast. I'm currently 
 
 ## Random Facts:
 - ✨ I love all things Disney! 
-- ✨ I'm currently working with Petco as a Web Content Designer.
+- ✨ I'm currently working as a Web Content Designer.
 - ✨ I own more nail polish than I could possibly use but I LOVE IT.
 - ✨ Fun fact: I'm a synesthete! I have chomesthesia and experience sounds as color.
 
