@@ -5,7 +5,13 @@ I'm a San Diego based front end web developer and nap enthusiast. I'm currently 
 - ✨ I love all things Disney! 
 - ✨ I'm currently working as a Web Content Designer.
 - ✨ I own more nail polish than I could possibly use but I LOVE IT.
-- ✨ Fun fact: I'm a synesthete! I have chomesthesia and experience sounds as color.
+- ✨ I'm a synesthete - I have chromesthesia! 🎶🌈
+
+## Get connected!
+You can find me *ocassionally* floating around the internet here:
+- 🎓 [LinkedIn](https://www.linkedin.com/in/elizabeth-solorio/)
+- 🦩 [Twitter](https://twitter.com/MoonChildEllie)
+- 📷 [Instagram](https://www.instagram.com/elliecodes/)
 
 <!--
 **elliecodestheweb/elliecodestheweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
