@@ -8,7 +8,6 @@ I'm a San Diego based front end web developer by day, tarot reader & collector a
 - 💬 Ask me about resources on how to get started learning development! I'm always happy to help!
 
 ## Random Facts:
-- ✨ I'm 
 - ✨ I am learning Visual Design with Skillcrush. 📚
 - ✨ When I'm not working with code, I'm reading tarot & oracle cards! 🃏
 
